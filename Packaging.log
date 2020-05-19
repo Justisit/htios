@@ -1,0 +1,249 @@
+2020-05-19 02:45:23 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fd4fd87e460; archive(resolved)='<IDEArchive: 0x7fd4fbe231c0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd4fe2e3640; teamID='2WVHFMHV5Y', teamName='HAITONG Securities Company Limited', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fd4fd87e460; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd4fe2e3640; teamID='2WVHFMHV5Y', teamName='HAITONG Securities Company Limited', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fd4fbb81ae0; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd4fe2e3640; teamID='2WVHFMHV5Y', teamName='HAITONG Securities Company Limited', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd4fe933500; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd4fe2e3640; teamID='2WVHFMHV5Y', teamName='HAITONG Securities Company Limited', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd4fe96f130; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd4fe2e3640; teamID='2WVHFMHV5Y', teamName='HAITONG Securities Company Limited', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd4fe95bf70; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd4fe2e3640; teamID='2WVHFMHV5Y', teamName='HAITONG Securities Company Limited', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd4fe5cff80; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd4fe2e3640; teamID='2WVHFMHV5Y', teamName='HAITONG Securities Company Limited', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd4fe956a40; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd4fe2e3640; teamID='2WVHFMHV5Y', teamName='HAITONG Securities Company Limited', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd4fe93ca00; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd4fe2e3640; teamID='2WVHFMHV5Y', teamName='HAITONG Securities Company Limited', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd4fe79f440; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd4fe2e3640; teamID='2WVHFMHV5Y', teamName='HAITONG Securities Company Limited', teamType='(null)', username='(null)', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd4fe5b4f50; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='(null)'>
+	<IDEDistributionContext: 0x7fd4fe809f70; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='(null)'>
+	<IDEDistributionContext: 0x7fd4fe90c970; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd4fba23f40>', team='(null)'>
+	<IDEDistributionContext: 0x7fd4fdb23b90; archive = '<IDEArchive: 0x7fd4fbe231c0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fd4fd87e460>
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionCopyItemStep
+2020-05-19 02:45:23 +0000  Running /usr/bin/ditto '-V' '/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app' '/var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root/Payload/HaiTongiOS.app'
+2020-05-19 02:45:23 +0000  >>> Copying /Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app 
+2020-05-19 02:45:23 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-05-19 02:45:23 +0000  11893 bytes for ./_CodeSignature/CodeResources
+2020-05-19 02:45:23 +0000  copying file ./AppIcon20x20@2x.png ... 
+2020-05-19 02:45:23 +0000  4114 bytes for ./AppIcon20x20@2x.png
+2020-05-19 02:45:23 +0000  copying file ./AppIcon20x20@3x.png ... 
+2020-05-19 02:45:23 +0000  6643 bytes for ./AppIcon20x20@3x.png
+copying file ./AppIcon60x60@2x.png ... 
+2020-05-19 02:45:23 +0000  14829 bytes for ./AppIcon60x60@2x.png
+copying file ./AppIcon29x29@2x.png ... 
+2020-05-19 02:45:23 +0000  6204 bytes for ./AppIcon29x29@2x.png
+copying file ./AppIcon40x40@3x.png ... 
+2020-05-19 02:45:23 +0000  14829 bytes for ./AppIcon40x40@3x.png
+2020-05-19 02:45:23 +0000  copying file ./CPQRCode.bundle/images/light_off.png ... 
+2020-05-19 02:45:23 +0000  3967 bytes for ./CPQRCode.bundle/images/light_off.png
+2020-05-19 02:45:23 +0000  copying file ./CPQRCode.bundle/images/code_btn.png ... 
+2020-05-19 02:45:23 +0000  3336 bytes for ./CPQRCode.bundle/images/code_btn.png
+2020-05-19 02:45:23 +0000  copying file ./CPQRCode.bundle/images/back_info.png ... 
+2020-05-19 02:45:23 +0000  1474 bytes for ./CPQRCode.bundle/images/back_info.png
+2020-05-19 02:45:23 +0000  copying file ./CPQRCode.bundle/images/code_line.png ... 
+2020-05-19 02:45:23 +0000  270 bytes for ./CPQRCode.bundle/images/code_line.png
+2020-05-19 02:45:23 +0000  copying file ./CPQRCode.bundle/images/light_on.png ... 
+2020-05-19 02:45:23 +0000  3833 bytes for ./CPQRCode.bundle/images/light_on.png
+2020-05-19 02:45:23 +0000  copying file ./AppIcon40x40@2x.png ... 
+2020-05-19 02:45:23 +0000  9055 bytes for ./AppIcon40x40@2x.png
+copying file ./AppIcon29x29@3x.png ... 
+2020-05-19 02:45:23 +0000  9890 bytes for ./AppIcon29x29@3x.png
+2020-05-19 02:45:23 +0000  copying file ./AppIcon60x60@3x.png ... 
+2020-05-19 02:45:23 +0000  20136 bytes for ./AppIcon60x60@3x.png
+2020-05-19 02:45:23 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2020-05-19 02:45:23 +0000  916 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2020-05-19 02:45:23 +0000  1833 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2020-05-19 02:45:23 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2020-05-19 02:45:23 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2020-05-19 02:45:23 +0000  1832 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2020-05-19 02:45:23 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2020-05-19 02:45:23 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-05-19 02:45:23 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-05-19 02:45:23 +0000  copying file ./Assets.car ... 
+2020-05-19 02:45:23 +0000  237688 bytes for ./Assets.car
+copying file ./AppIcon40x40@2x~ipad.png ... 
+2020-05-19 02:45:23 +0000  9055 bytes for ./AppIcon40x40@2x~ipad.png
+copying file ./AppIcon29x29@2x~ipad.png ... 
+2020-05-19 02:45:23 +0000  6204 bytes for ./AppIcon29x29@2x~ipad.png
+2020-05-19 02:45:23 +0000  copying file ./Frameworks/MADCore.framework/_CodeSignature/CodeResources ... 
+2020-05-19 02:45:23 +0000  2106 bytes for ./Frameworks/MADCore.framework/_CodeSignature/CodeResources
+2020-05-19 02:45:23 +0000  copying file ./Frameworks/MADCore.framework/MADCore ... 
+2020-05-19 02:45:23 +0000  19593952 bytes for ./Frameworks/MADCore.framework/MADCore
+copying file ./Frameworks/MADCore.framework/native-bundle-main.js ... 
+2020-05-19 02:45:23 +0000  256129 bytes for ./Frameworks/MADCore.framework/native-bundle-main.js
+copying file ./Frameworks/MADCore.framework/Info.plist ... 
+2020-05-19 02:45:23 +0000  700 bytes for ./Frameworks/MADCore.framework/Info.plist
+2020-05-19 02:45:23 +0000  copying file ./embedded.mobileprovision ... 
+2020-05-19 02:45:23 +0000  7375 bytes for ./embedded.mobileprovision
+2020-05-19 02:45:23 +0000  copying file ./assets/registry.dat ... 
+2020-05-19 02:45:23 +0000  265 bytes for ./assets/registry.dat
+2020-05-19 02:45:23 +0000  copying file ./assets/central.dat ... 
+2020-05-19 02:45:23 +0000  1247 bytes for ./assets/central.dat
+2020-05-19 02:45:23 +0000  copying file ./assets/repo_main.dat ... 
+2020-05-19 02:45:23 +0000  18080211 bytes for ./assets/repo_main.dat
+2020-05-19 02:45:23 +0000  copying file ./HaiTongiOS ... 
+2020-05-19 02:45:23 +0000  2289264 bytes for ./HaiTongiOS
+copying file ./AppIcon20x20@2x~ipad.png ... 
+2020-05-19 02:45:23 +0000  4114 bytes for ./AppIcon20x20@2x~ipad.png
+2020-05-19 02:45:23 +0000  copying file ./Info.plist ... 
+2020-05-19 02:45:23 +0000  1927 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2020-05-19 02:45:23 +0000  8 bytes for ./PkgInfo
+2020-05-19 02:45:23 +0000  /usr/bin/ditto exited with 0
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-05-19 02:45:23 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd4fe968f70; bundleID='tech.madp.MADCore', path='<DVTFilePath:0x7fd4fe5b28b0:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app/Frameworks/MADCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd4fe966e70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd4fe2635b0; name='iPhone Distribution: HAITONG Securities Company Limited', hash='9104F41134D101EA1500439F6662E5A31F845D51', serialNumber='431B43BD3F8DDEDE', certificateKinds='(
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2018-05-02 10:12:53 +0000''>', entitlements='(null)', teamID='2WVHFMHV5Y', identifier='tech.madp.MADCore', executablePath='<DVTFilePath:0x7fd4fe69c0e0:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app/Frameworks/MADCore.framework/MADCore'>', hardenedRuntime='0'>'>
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionInfoPlistStep
+2020-05-19 02:45:23 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-05-19 02:45:23 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-05-19 02:45:23 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-05-19 02:45:23 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-05-19 02:45:23 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-05-19 02:45:23 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionSymbolsStep
+2020-05-19 02:45:23 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-05-19 02:45:23 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionAppThinningStep
+2020-05-19 02:45:23 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionArchThinningStep
+2020-05-19 02:45:23 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root/Payload/HaiTongiOS.app/Frameworks/MADCore.framework/MADCore' '-verify_arch' 'arm64e'
+2020-05-19 02:45:23 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-05-19 02:45:23 +0000  Skipping architecture thinning for item "MADCore" because arch "arm64e" wasn't found
+2020-05-19 02:45:23 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root/Payload/HaiTongiOS.app/HaiTongiOS' '-verify_arch' 'arm64e'
+2020-05-19 02:45:23 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-05-19 02:45:23 +0000  Skipping architecture thinning for item "HaiTongiOS" because arch "arm64e" wasn't found
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionODRStep
+2020-05-19 02:45:23 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-05-19 02:45:23 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd4fe968f70; bundleID='tech.madp.MADCore', path='<DVTFilePath:0x7fd4fe5b28b0:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app/Frameworks/MADCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd4fe966e70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd4fdf16b50; name='iPhone Distribution: HAITONG Securities Company Limited', hash='9104F41134D101EA1500439F6662E5A31F845D51', serialNumber='431B43BD3F8DDEDE', certificateKinds='(
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2018-05-02 10:12:53 +0000''>', entitlements='(null)', teamID='2WVHFMHV5Y', identifier='tech.madp.MADCore', executablePath='<DVTFilePath:0x7fd4fe69c0e0:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app/Frameworks/MADCore.framework/MADCore'>', hardenedRuntime='0'>'>
+2020-05-19 02:45:23 +0000  Running /usr/bin/xattr '-crs' '/var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root/Payload/HaiTongiOS.app'
+2020-05-19 02:45:24 +0000  /usr/bin/xattr exited with 0
+2020-05-19 02:45:24 +0000  Processing step: IDEDistributionCodesignStep
+2020-05-19 02:45:24 +0000  Entitlements for <IDEDistributionItem: 0x7fd4fe968f70; bundleID='tech.madp.MADCore', path='<DVTFilePath:0x7fd4fe5b28b0:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app/Frameworks/MADCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd4fe966e70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd4fe2635b0; name='iPhone Distribution: HAITONG Securities Company Limited', hash='9104F41134D101EA1500439F6662E5A31F845D51', serialNumber='431B43BD3F8DDEDE', certificateKinds='(
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2018-05-02 10:12:53 +0000''>', entitlements='(null)', teamID='2WVHFMHV5Y', identifier='tech.madp.MADCore', executablePath='<DVTFilePath:0x7fd4fe69c0e0:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app/Frameworks/MADCore.framework/MADCore'>', hardenedRuntime='0'>'>: {
+}
+2020-05-19 02:45:24 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd4fe968f70; bundleID='tech.madp.MADCore', path='<DVTFilePath:0x7fd4fe5b28b0:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app/Frameworks/MADCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd4fe966e70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd4fbd837e0; name='iPhone Distribution: HAITONG Securities Company Limited', hash='9104F41134D101EA1500439F6662E5A31F845D51', serialNumber='431B43BD3F8DDEDE', certificateKinds='(
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2018-05-02 10:12:53 +0000''>', entitlements='(null)', teamID='2WVHFMHV5Y', identifier='tech.madp.MADCore', executablePath='<DVTFilePath:0x7fd4fe69c0e0:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app/Frameworks/MADCore.framework/MADCore'>', hardenedRuntime='0'>'> to: /var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/entitlements~~~W6r541
+2020-05-19 02:45:24 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9104F41134D101EA1500439F6662E5A31F845D51' '--entitlements' '/var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/entitlements~~~W6r541' '--preserve-metadata=identifier,flags,runtime' '/var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root/Payload/HaiTongiOS.app/Frameworks/MADCore.framework'
+2020-05-19 02:45:24 +0000  /var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root/Payload/HaiTongiOS.app/Frameworks/MADCore.framework: replacing existing signature
+2020-05-19 02:45:24 +0000  /var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root/Payload/HaiTongiOS.app/Frameworks/MADCore.framework: signed bundle with Mach-O universal (armv7 arm64) [tech.madp.MADCore]
+2020-05-19 02:45:24 +0000  /usr/bin/codesign exited with 0
+2020-05-19 02:45:24 +0000  Entitlements for <IDEDistributionItem: 0x7fd4fe96e360; bundleID='Htsec.com.tzyh', path='<DVTFilePath:0x7fd4fe789250:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd4fe968bb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd4fdf16b50; name='iPhone Distribution: HAITONG Securities Company Limited', hash='9104F41134D101EA1500439F6662E5A31F845D51', serialNumber='431B43BD3F8DDEDE', certificateKinds='(
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2018-05-02 10:12:53 +0000''>', entitlements='{
+    "application-identifier" = "2WVHFMHV5Y.Htsec.com.tzyh";
+    "com.apple.developer.team-identifier" = 2WVHFMHV5Y;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "2WVHFMHV5Y.Htsec.com.tzyh"
+    );
+}', teamID='2WVHFMHV5Y', identifier='Htsec.com.tzyh', executablePath='<DVTFilePath:0x7fd4fa7f9b70:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app/HaiTongiOS'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "2WVHFMHV5Y.Htsec.com.tzyh";
+    "com.apple.developer.team-identifier" = 2WVHFMHV5Y;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "2WVHFMHV5Y.Htsec.com.tzyh"
+    );
+}
+2020-05-19 02:45:24 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd4fe96e360; bundleID='Htsec.com.tzyh', path='<DVTFilePath:0x7fd4fe789250:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd4fe968bb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd4fe2dc420; name='iPhone Distribution: HAITONG Securities Company Limited', hash='9104F41134D101EA1500439F6662E5A31F845D51', serialNumber='431B43BD3F8DDEDE', certificateKinds='(
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2018-05-02 10:12:53 +0000''>', entitlements='{
+    "application-identifier" = "2WVHFMHV5Y.Htsec.com.tzyh";
+    "com.apple.developer.team-identifier" = 2WVHFMHV5Y;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "2WVHFMHV5Y.Htsec.com.tzyh"
+    );
+}', teamID='2WVHFMHV5Y', identifier='Htsec.com.tzyh', executablePath='<DVTFilePath:0x7fd4fa7f9b70:'/Users/zhangyaozhong/Library/Developer/Xcode/Archives/2020-05-19/HaiTongiOS 2020-5-19, 10.40 AM.xcarchive/Products/Applications/HaiTongiOS.app/HaiTongiOS'>', hardenedRuntime='0'>'> to: /var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/entitlements~~~NrLzCv
+2020-05-19 02:45:24 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9104F41134D101EA1500439F6662E5A31F845D51' '--entitlements' '/var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/entitlements~~~NrLzCv' '--preserve-metadata=identifier,flags,runtime' '/var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root/Payload/HaiTongiOS.app'
+2020-05-19 02:45:24 +0000  /var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root/Payload/HaiTongiOS.app: replacing existing signature
+2020-05-19 02:45:25 +0000  /var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root/Payload/HaiTongiOS.app: signed app bundle with Mach-O universal (armv7 arm64) [Htsec.com.tzyh]
+2020-05-19 02:45:25 +0000  /usr/bin/codesign exited with 0
+2020-05-19 02:45:25 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-05-19 02:45:25 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-05-19 02:45:25 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-05-19 02:45:25 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-05-19 02:45:25 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root' '/var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Packages/HaiTongiOS.ipa'
+2020-05-19 02:45:25 +0000  >>> Copying /var/folders/hg/855lc3cx4m9_lr15dzbptymh0000gn/T/XcodeDistPipeline.~~~vFC1wi/Root 
+2020-05-19 02:45:25 +0000  copying file ./Payload/HaiTongiOS.app/_CodeSignature/CodeResources ... 
+2020-05-19 02:45:25 +0000  11893 bytes for ./Payload/HaiTongiOS.app/_CodeSignature/CodeResources
+2020-05-19 02:45:25 +0000  copying file ./Payload/HaiTongiOS.app/AppIcon20x20@2x.png ... 
+2020-05-19 02:45:25 +0000  4114 bytes for ./Payload/HaiTongiOS.app/AppIcon20x20@2x.png
+2020-05-19 02:45:25 +0000  copying file ./Payload/HaiTongiOS.app/AppIcon20x20@3x.png ... 
+2020-05-19 02:45:25 +0000  6643 bytes for ./Payload/HaiTongiOS.app/AppIcon20x20@3x.png
+2020-05-19 02:45:25 +0000  copying file ./Payload/HaiTongiOS.app/AppIcon60x60@2x.png ... 
+2020-05-19 02:45:25 +0000  14829 bytes for ./Payload/HaiTongiOS.app/AppIcon60x60@2x.png
+2020-05-19 02:45:25 +0000  copying file ./Payload/HaiTongiOS.app/AppIcon29x29@2x.png ... 
+2020-05-19 02:45:25 +0000  6204 bytes for ./Payload/HaiTongiOS.app/AppIcon29x29@2x.png
+copying file ./Payload/HaiTongiOS.app/AppIcon40x40@3x.png ... 
+2020-05-19 02:45:25 +0000  14829 bytes for ./Payload/HaiTongiOS.app/AppIcon40x40@3x.png
+2020-05-19 02:45:25 +0000  copying file ./Payload/HaiTongiOS.app/CPQRCode.bundle/images/light_off.png ... 
+2020-05-19 02:45:25 +0000  3967 bytes for ./Payload/HaiTongiOS.app/CPQRCode.bundle/images/light_off.png
+copying file ./Payload/HaiTongiOS.app/CPQRCode.bundle/images/code_btn.png ... 
+2020-05-19 02:45:25 +0000  3336 bytes for ./Payload/HaiTongiOS.app/CPQRCode.bundle/images/code_btn.png
+copying file ./Payload/HaiTongiOS.app/CPQRCode.bundle/images/back_info.png ... 
+2020-05-19 02:45:25 +0000  1474 bytes for ./Payload/HaiTongiOS.app/CPQRCode.bundle/images/back_info.png
+copying file ./Payload/HaiTongiOS.app/CPQRCode.bundle/images/code_line.png ... 
+2020-05-19 02:45:25 +0000  270 bytes for ./Payload/HaiTongiOS.app/CPQRCode.bundle/images/code_line.png
+copying file ./Payload/HaiTongiOS.app/CPQRCode.bundle/images/light_on.png ... 
+2020-05-19 02:45:25 +0000  3833 bytes for ./Payload/HaiTongiOS.app/CPQRCode.bundle/images/light_on.png
+copying file ./Payload/HaiTongiOS.app/AppIcon40x40@2x.png ... 
+2020-05-19 02:45:25 +0000  9055 bytes for ./Payload/HaiTongiOS.app/AppIcon40x40@2x.png
+2020-05-19 02:45:25 +0000  copying file ./Payload/HaiTongiOS.app/AppIcon29x29@3x.png ... 
+2020-05-19 02:45:25 +0000  9890 bytes for ./Payload/HaiTongiOS.app/AppIcon29x29@3x.png
+copying file ./Payload/HaiTongiOS.app/AppIcon60x60@3x.png ... 
+2020-05-19 02:45:25 +0000  20136 bytes for ./Payload/HaiTongiOS.app/AppIcon60x60@3x.png
+2020-05-19 02:45:25 +0000  copying file ./Payload/HaiTongiOS.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2020-05-19 02:45:25 +0000  916 bytes for ./Payload/HaiTongiOS.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/HaiTongiOS.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2020-05-19 02:45:25 +0000  1833 bytes for ./Payload/HaiTongiOS.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/HaiTongiOS.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2020-05-19 02:45:25 +0000  258 bytes for ./Payload/HaiTongiOS.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/HaiTongiOS.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+1832 bytes for ./Payload/HaiTongiOS.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/HaiTongiOS.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2020-05-19 02:45:25 +0000  896 bytes for ./Payload/HaiTongiOS.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/HaiTongiOS.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-05-19 02:45:25 +0000  258 bytes for ./Payload/HaiTongiOS.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/HaiTongiOS.app/Assets.car ... 
+2020-05-19 02:45:25 +0000  237688 bytes for ./Payload/HaiTongiOS.app/Assets.car
+copying file ./Payload/HaiTongiOS.app/AppIcon40x40@2x~ipad.png ... 
+2020-05-19 02:45:25 +0000  9055 bytes for ./Payload/HaiTongiOS.app/AppIcon40x40@2x~ipad.png
+copying file ./Payload/HaiTongiOS.app/AppIcon29x29@2x~ipad.png ... 
+2020-05-19 02:45:25 +0000  6204 bytes for ./Payload/HaiTongiOS.app/AppIcon29x29@2x~ipad.png
+2020-05-19 02:45:25 +0000  copying file ./Payload/HaiTongiOS.app/Frameworks/MADCore.framework/_CodeSignature/CodeResources ... 
+2020-05-19 02:45:25 +0000  2106 bytes for ./Payload/HaiTongiOS.app/Frameworks/MADCore.framework/_CodeSignature/CodeResources
+copying file ./Payload/HaiTongiOS.app/Frameworks/MADCore.framework/MADCore ... 
+2020-05-19 02:45:26 +0000  19594256 bytes for ./Payload/HaiTongiOS.app/Frameworks/MADCore.framework/MADCore
+copying file ./Payload/HaiTongiOS.app/Frameworks/MADCore.framework/native-bundle-main.js ... 
+2020-05-19 02:45:26 +0000  256129 bytes for ./Payload/HaiTongiOS.app/Frameworks/MADCore.framework/native-bundle-main.js
+copying file ./Payload/HaiTongiOS.app/Frameworks/MADCore.framework/Info.plist ... 
+2020-05-19 02:45:26 +0000  700 bytes for ./Payload/HaiTongiOS.app/Frameworks/MADCore.framework/Info.plist
+copying file ./Payload/HaiTongiOS.app/embedded.mobileprovision ... 
+2020-05-19 02:45:26 +0000  7375 bytes for ./Payload/HaiTongiOS.app/embedded.mobileprovision
+copying file ./Payload/HaiTongiOS.app/assets/registry.dat ... 
+2020-05-19 02:45:26 +0000  265 bytes for ./Payload/HaiTongiOS.app/assets/registry.dat
+copying file ./Payload/HaiTongiOS.app/assets/central.dat ... 
+2020-05-19 02:45:26 +0000  1247 bytes for ./Payload/HaiTongiOS.app/assets/central.dat
+2020-05-19 02:45:26 +0000  copying file ./Payload/HaiTongiOS.app/assets/repo_main.dat ... 
+2020-05-19 02:45:26 +0000  18080211 bytes for ./Payload/HaiTongiOS.app/assets/repo_main.dat
+copying file ./Payload/HaiTongiOS.app/HaiTongiOS ... 
+2020-05-19 02:45:26 +0000  2289264 bytes for ./Payload/HaiTongiOS.app/HaiTongiOS
+2020-05-19 02:45:26 +0000  copying file ./Payload/HaiTongiOS.app/AppIcon20x20@2x~ipad.png ... 
+4114 bytes for ./Payload/HaiTongiOS.app/AppIcon20x20@2x~ipad.png
+copying file ./Payload/HaiTongiOS.app/Info.plist ... 
+2020-05-19 02:45:26 +0000  1927 bytes for ./Payload/HaiTongiOS.app/Info.plist
+copying file ./Payload/HaiTongiOS.app/PkgInfo ... 
+2020-05-19 02:45:26 +0000  8 bytes for ./Payload/HaiTongiOS.app/PkgInfo
+2020-05-19 02:45:26 +0000  /usr/bin/ditto exited with 0
+2020-05-19 02:45:26 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-05-19 02:45:26 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-05-19 02:45:26 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-05-19 02:45:26 +0000  Processing step: IDEDistributionCreateManifestStep
