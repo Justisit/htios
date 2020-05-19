@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/Justisit/htios/blob/master/HaiTongiOS.ipa</string>
+		<string>https://ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/Justisit/htios/blob/master/thPic.jpg</string>
+		<string>https://imag</string>
 		<key>fullSizeImageURL</key>
-		<string>https://github.com/Justisit/htios/blob/master/thPic.jpg</string>
+		<string>https://fullimage</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
